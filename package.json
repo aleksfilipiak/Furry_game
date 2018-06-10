@@ -1,0 +1,24 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksfilipiak/POZ_FER_S_10_REACT_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksfilipiak/POZ_FER_S_10_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/aleksfilipiak/POZ_FER_S_10_REACT_Furry_Game#readme"
+}
